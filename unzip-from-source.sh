@@ -1,10 +1,10 @@
 #!/usr/bin/env import
 
-# demo name = > username-with-env-variables-example
+## demo name = > unzip-from-source
+
 # docs link = > https://servingtokens.com/docs/functions/auth/authenticating-users/example-api/username-with-env-variables-example.sh
-# live exmaple = > https://www.sts-function-demos.servingtokens.com/api/username-with-env-variables-example.sh
-# live example = > https://sts-core-runtime-app-with-docker-1142.vercel.app/api/unzip-from-source
-# github repo => https://github.com/servingtokens-tests/documented-tests/new/main
+# live example = > https://bash-api-endpoint-examples.vercel.app/api/unzip-from-source
+# github repo => https://github.com/servingtokens-com/public-tests/edit/main/unzip-from-source.sh
 
 #!/bin/bash
 set -euo pipefail
